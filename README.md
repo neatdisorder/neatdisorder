@@ -1,6 +1,6 @@
 ### Hi!  🙋🏼‍♂️
 
-My name is **Ignacio Castillo** and I'm a digital communicator from Buenos Aires with broad experience on planning, managing and copy-writing digital content both in English and Spanish. I am currently studying to become a **Front-End Web Developer** by using [freeCodeCamp](https://www.freecodecamp.org) and attending courses at [EducaciónIT](https://www.educacionit.com). Here you will find some of the projects I've been working on while going on this journey.
+My name is **Ignacio Castillo** and I'm a digital communicator from Buenos Aires, Argentina with broad experience on planning, managing and copy-writing digital content both in English and Spanish. I am currently studying to become a **Front-End Web Developer** by using [freeCodeCamp](https://www.freecodecamp.org) and attending courses at [EducacionIT](https://www.educacionit.com). Here you will find some of the projects I've been working on while going on this journey.
 
 💻 If you would like to see my portfolio, [click here](https://neatdisorder.github.io/portfolio-2020/).
 
