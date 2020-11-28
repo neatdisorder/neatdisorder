@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi!  🙋🏼‍♂️
+
+My name is **Ignacio Castillo** and I'm a digital communicator from Buenos Aires with broad experience on planning, managing and copy-writing digital content both in English and Spanish. I am currently studying to become a **Front-End Web Developer** by using [freeCodeCamp](https://www.freecodecamp.org) and attending courses at [EducaciónIT](https://www.educacionit.com). Here you will find some of the projects I've been working on while going on this journey.
+
+💻 If you would like to see my portfolio, [click here](https://neatdisorder.github.io/portfolio-2020/).
+
+💼 You can find my full resume at [LinkedIn](https://www.linkedin.com/in/nachocast92).
+
+📬 Contact me: nachocast92 (at) gmail.com
 
 <!--
 **neatdisorder/neatdisorder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
