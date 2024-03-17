@@ -1,8 +1,14 @@
 ### Hi!  🙋🏼‍♂️
 
-My name is **Ignacio Castillo** and I'm a web developer and digital communicator from Buenos Aires, Argentina with broad experience on planning, managing and copy-writing digital content both in English and Spanish. I am currently working at Hogarth Argentina as a Web Developer specialized on Content Management Systems.
+My name is **Ignacio Castillo** and I'm a web developer and digital communicator from Buenos Aires, Argentina with broad experience on planning, managing and copy-writing digital content both in English and Spanish. I am currently working as a freelance web developer.
 
-✨ SEE MY LATEST PROJECT: https://mariarojasarias-dev.netlify.app/ (repository pinned below)
+✨ SEE MY LATEST PROJECTS:
+
+https://www.sandiegomagazine.com - web development on Wordpress
+
+https://www.nidoerrante.com.ar - web development on Wordpress
+
+https://mariarojasarias-dev.netlify.app/ (repository pinned below)
 
 💼 You can find my full resume at [LinkedIn](https://www.linkedin.com/in/nachocast92).
 
