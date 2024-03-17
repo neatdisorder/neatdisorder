@@ -8,7 +8,7 @@ https://www.sandiegomagazine.com - web development on Wordpress
 
 https://www.nidoerrante.com.ar - web development on Wordpress
 
-https://mariarojasarias-dev.netlify.app/ (repository pinned below)
+https://mariarojasarias-dev.netlify.app/ - web development on Next.js + Netlify CMS
 
 💼 You can find my full resume at [LinkedIn](https://www.linkedin.com/in/nachocast92).
 
