@@ -1,6 +1,6 @@
 ### Hi!  🙋🏼‍♂️
 
-My name is **Ignacio Castillo** and I'm a web developer and digital communicator from Buenos Aires, Argentina with broad experience on planning, managing and copy-writing digital content both in English and Spanish. I am currently working as a freelance web developer.
+Full-stack web developer focused on Content Managent Systems (Wordpress & Drupal) using Javascript and PHP, and technologies like React, Next.js, ChakraUI, Bootstrap, Sass, Elementor, and MySQL.
 
 ✨ SEE MY LATEST PROJECTS:
 
